@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443711732513",
+    "project_id": "ambios-93dc3",
+    "storage_bucket": "ambios-93dc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443711732513:android:868c440939a76e36229c60",
+        "android_client_info": {
+          "package_name": "com.example.ambios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkJaNbG2fLJ5djvlymutsHb2Sn5HR_E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
